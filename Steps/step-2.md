@@ -30,17 +30,16 @@ http://<ec2-instance-public-ip>:8080
 ```
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
-// Image will be added here
+![net-3](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/a1074f73-208f-4dca-807c-72fc457942d0)
 
 - Install the suggested plugins.
-// Image will be added here
+![net-4](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/1581bdb7-f27b-478a-b621-75f42e399ddf)
+
 
 - Create an admin user.
-// Image will be added here
+![net-5](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/0d423304-d815-48f2-bc8b-f86fbada4d6f)
+![net-6](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/b953738a-dc3d-4ebb-9e2a-3b262a3e6191)
+
 
 - Jenkins is now ready to use.
-// Image will be added here
-
-
-
-
+![net-7](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/be442fdc-7040-43c7-b0d7-c21bf7831d55)
