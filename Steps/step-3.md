@@ -27,6 +27,8 @@ docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
 ```
 http://<ec2-instance-public-ip>:9000
 ```
+![net-8](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/5a005eec-2a26-496b-8307-adcff97a965c)
+
 ![net-9](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/20b90d39-025f-4900-8c3d-9e602c3c1803)
 
 
