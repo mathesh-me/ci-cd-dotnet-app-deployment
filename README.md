@@ -63,8 +63,8 @@ Ensure you have the following prerequisites before getting started:
 | 4 | [Install Plugins in Jenkins][Step-4] |
 | 5 | [Configure tools in Jenkins][Step-5] |
 | 6 | [Store Credentials in Jenkins][Step-6] |
-| 7 | [Configuring Webhook][Step-7] |
-| 8 | [Configuring Pipeline Job][Step-8] |
+| 7 | [Configuring Pipeline Job][Step-7] |
+| 8 | [Configuring Webhook][Step-8] |
 | 9 | [Deploying Application][Step-9] |
 
    [Step-1]: <./Steps/step-1.md>
