@@ -7,6 +7,6 @@
 ![net-32](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/bd444c1c-28a5-46e7-aa3e-7df71557a4a6)
 
 
-- Install the Plugins shown in the image
+- Install the Plugins shown in the image.
 
 - Jenkins will automatically restart after installing the plugins.
