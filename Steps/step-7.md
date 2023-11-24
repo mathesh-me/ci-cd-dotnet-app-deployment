@@ -11,6 +11,6 @@
 5. Select `Git` in the `SCM` field.
 6. Enter the repository URL as 
 ```
-https://github.com/mathesh-me/ci-cd-dotnet-app-deployment**
+https://github.com/mathesh-me/ci-cd-dotnet-app-deployment
 ```
 7. Click on **Save**.
