@@ -1,4 +1,4 @@
-## Strore Credentials in Jenkins
+![net-18](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/f29e1ada-e125-4c03-a287-447f7408f162)## Strore Credentials in Jenkins
 
 ### Storing Dockerhub Credentials
 
@@ -11,7 +11,8 @@
 - Enter the username and password of your Dockerhub account.
 - Click on OK.
 
-// Image will be added here
+![net-34](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/b96f2a47-95fe-4b44-9a34-1b898b9bbad3)
+
 
 ### Storing SonarQube Credentials
 
@@ -22,7 +23,10 @@
 - Click on Security.
 - Click on Users.
 
-// Image will be added here
+![net-18](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/e2c68c00-20a2-440a-9953-96206b8d1111)
+
+![net-19](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/8c0ad9b2-8b74-42d9-9b33-2cb50d49e388)
+
 
 #### How to store SonarQube Credentials in Jenkins
 
@@ -37,4 +41,4 @@
 - Enter the description as `sonar-token`.
 - Click on OK.
 
-// Image will be added here
+![net-20](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/1cd08790-4ac6-413e-b188-8f35f16c6a00)
