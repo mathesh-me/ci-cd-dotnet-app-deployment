@@ -1,4 +1,4 @@
-![net-18](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/f29e1ada-e125-4c03-a287-447f7408f162)## Strore Credentials in Jenkins
+## Strore Credentials in Jenkins
 
 ### Storing Dockerhub Credentials
 
