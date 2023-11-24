@@ -52,4 +52,10 @@ sudo apt-get update
 sudo apt-get install trivy -y
 ```
 
+### Step 4:
+- Install make.
+```
+sudo apt-get install make -y
+```
+
 
