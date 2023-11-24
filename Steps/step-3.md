@@ -33,10 +33,10 @@ http://<ec2-instance-public-ip>:9000
 Username: admin
 Password: admin
 ```
+![net-10](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/a87ca754-43e7-4ac3-a159-cd8b6dba7d6e)
+![net-11](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/015f8636-ff1a-47e8-b578-1b3e7a5369b3)
+![net-12](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/4a887ab7-17bd-4a0d-8e4c-dca18d562863)
 
-// Image will be added here
-// Image will be added here
-// Image will be added here
 
 ### Step 3:
 - Install Trivy.
