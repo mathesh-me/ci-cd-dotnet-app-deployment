@@ -11,6 +11,7 @@
 - You can see the .NET in the browser. By default, the application runs on port 5000.
 - So, you have to open the port 5000 in the security group of the EC2 instance.
 ![net-37](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/8519775f-fd52-4537-8bb6-468d9df2c8e0)
+![net-36](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/261706bc-5d93-4824-9194-db68672da4be)
 
 - Now, you can access the application using the URL `http://<public-ip>:5000`.
 ![net-38](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/f9d36c37-229b-44bd-83d6-5581eebca057)
