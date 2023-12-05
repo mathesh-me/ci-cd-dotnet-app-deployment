@@ -1,4 +1,4 @@
-# .NET Application with Jenkins CI/CD 🚀
+# .NET Application Deployment with Jenkins CI/CD 🚀
 
 ## Project Overview 🎉
 Deploying a .NET application with a Jenkins CI/CD pipeline.
