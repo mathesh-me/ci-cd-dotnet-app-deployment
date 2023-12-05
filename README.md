@@ -5,7 +5,7 @@ Deploying a .NET application with a Jenkins CI/CD pipeline.
 
 ## Project Description 📋
 
-This project demonstrates how to deploy a .NET application with a Jenkins CI/CD pipeline. The pipeline includes automated testing, Docker image management, and local development.
+This project demonstrates how to deploy a .NET application with a Jenkins CI/CD pipeline. This pipeline includes automated testing, Docker image management, and local development.
 
 ## Workflow Diagram 📊
 ![net workflow](https://github.com/mathesh-me/ci-cd-dotnet-app-deployment/assets/144098846/dcd44360-1c50-4542-9ec9-3604fd04c3a3)
